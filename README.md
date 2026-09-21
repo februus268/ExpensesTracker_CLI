@@ -218,3 +218,7 @@ This project was developed to practice:
 ## License
 
 This project is created for learning and educational purposes.
+
+## Project URL
+
+https://roadmap.sh/projects/expense-tracker
