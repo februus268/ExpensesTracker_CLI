@@ -2,6 +2,23 @@
 
 A simple command-line application built with **Python** for managing personal expenses.
 
+## 📸 Screenshots
+
+### 💻 CLI Interface
+
+The application provides an interactive command-line interface
+for managing expenses.
+
+![CLI Interface](images/images1.png)
+
+### 📊 CSV Storage
+
+Expenses are stored in a CSV file with ID, date, description,
+and amount.
+
+![CSV Storage](images/images2.png)
+
+
 ## Features
 
 - Add expenses
@@ -197,15 +214,6 @@ This project was developed to practice:
 - Improve CLI table formatting
 - Replace CSV storage with a database
 - Package the application as an installable CLI tool
-## 📸 Screenshots
-
-### Terminal
-
-![Expense Tracker CLI](images/images1.png)
-
-### CSV Storage
-
-![CSV Storage](images/images2.png)
 
 ## License
 
