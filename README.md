@@ -197,6 +197,15 @@ This project was developed to practice:
 - Improve CLI table formatting
 - Replace CSV storage with a database
 - Package the application as an installable CLI tool
+## 📸 Screenshots
+
+### Terminal
+
+![Expense Tracker CLI](images/images1.png)
+
+### CSV Storage
+
+![CSV Storage](images/images2.png)
 
 ## License
 
